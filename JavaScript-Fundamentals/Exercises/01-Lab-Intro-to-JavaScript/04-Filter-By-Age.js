@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 06-May-17.
  */
-function filterByAge([ageLimit, firstName, firstAge, secondName, secondAge]){
+function filterByAge(ageLimit, firstName, firstAge, secondName, secondAge){
     let firstPerson = {
         name: firstName,
         age: Number(firstAge)

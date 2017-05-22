@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 06-May-17.
  */
-function figureArea([w,h,W,H]) {
+function figureArea(w,h,W,H) {
     let firstArea = Number(w) * Number(h);
     let secondArea = Number(W) * Number(H);
     let commonArea = Math.min(Number(w), Number(W)) * Math.min(Number(h), Number(H));
