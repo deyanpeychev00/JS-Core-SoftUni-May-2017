@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 08-May-17.
  */
-function primeNumCheck([number]) {
+function primeNumCheck(number) {
     let prime = true;
     if (number <= 0 || Number(number) === 1){
         prime = false;

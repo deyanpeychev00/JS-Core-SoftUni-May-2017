@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 08-May-17.
  */
-function convert([input]){
+function convert(input){
 
     let feet = Math.floor(input / 12);
     let inches = input % 12;

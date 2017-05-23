@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 09-May-17.
  */
-function draw([n]) {
+function draw(n) {
     n=Number(n);
     let square = '';
     if(n%2===0){

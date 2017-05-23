@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 08-May-17.
  */
-function convert([num]) {
+function convert(num) {
     let res = parseInt(Number(num),2);
     console.log(res);
 }

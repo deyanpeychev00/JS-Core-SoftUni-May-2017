@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 08-May-17.
  */
-function fruitOrVegetable([input]) {
+function fruitOrVegetable(input) {
     switch (input){
         case 'banana':
         case 'apple':

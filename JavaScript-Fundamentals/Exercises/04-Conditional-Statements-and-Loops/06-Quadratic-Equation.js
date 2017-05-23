@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 09-May-17.
  */
-function quadraticEquation([a,b,c]){
+function quadraticEquation(a,b,c){
     [a,b,c] = [a,b,c].map(Number);
 
     let D = Math.pow(b,2)-4*a*c;

@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 09-May-17.
  */
-function makeTable([n]){
+function makeTable(n){
     n=Number(n);
 
     let html = '<table border="1">\n';

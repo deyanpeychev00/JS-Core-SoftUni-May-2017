@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 08-May-17.
  */
-function convert([grads]) {
+function convert(grads) {
     grads = Number(grads);
     grads %=400;
     if(grads<0){

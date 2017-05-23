@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 08-May-17.
  */
-function chessboard([size]) {
+function chessboard(size) {
     let html = '<div class="chessboard">\n';
 
     for(let row = 1; row<=size; row++){
