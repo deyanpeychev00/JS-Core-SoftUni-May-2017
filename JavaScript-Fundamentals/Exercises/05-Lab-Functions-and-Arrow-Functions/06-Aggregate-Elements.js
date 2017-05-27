@@ -1,5 +1,4 @@
 function aggregateElements(elements) {
-    elements.pop();
     elements = elements.map(Number);
 
     function sumElementsAsNumbers(value) {
@@ -30,7 +29,7 @@ function aggregateElements(elements) {
     sumInverseValues(elements);
     sumElementsAsString(elements);
 }
- aggregateElements(['2', '4', '8', '16', '']);
+/* aggregateElements(['2', '4', '8', '16', '']);
  console.log('-----------------------');
- aggregateElements(['1', '2', '3']);
+ aggregateElements(['1', '2', '3']);*/
 

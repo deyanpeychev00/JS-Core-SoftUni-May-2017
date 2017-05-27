@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 10-May-17.
  */
-function solve([arr]) {
+function solve(arr) {
 
     var regex = /([aA-zZ])\w*/g;
     match = regex.exec(arr);

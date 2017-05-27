@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 10-May-17.
  */
-function calculate([num1,num2, command]) {
+function calculate(num1,num2, command) {
     [num1, num2] = [num1, num2].map(Number);
 
     switch(command){

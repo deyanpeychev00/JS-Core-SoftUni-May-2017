@@ -1,7 +1,7 @@
 /**
  * Created by Deyan Peychev on 10-May-17.
  */
-function printTriangle([size]) {
+function printTriangle(size) {
     function printRow(row) {
         console.log('*'.repeat(row));
     }
@@ -13,4 +13,6 @@ function printTriangle([size]) {
         printRow(i);
     }
 }
-printTriangle(['5']);
+/*
+printTriangle(5);
+printTriangle(2);*/
