@@ -7,6 +7,5 @@ function check(str) {
     console.log(str === strRev);
 }
 
-/*
 check(['hahah']);
-check(['nopalindrome']);*/
+check(['nopalindrome']);
