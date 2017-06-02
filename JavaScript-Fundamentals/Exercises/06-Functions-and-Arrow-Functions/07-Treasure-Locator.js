@@ -57,5 +57,6 @@ function solve(args) {
     }
 }
 
+/*
 solve([4, 2, 1.5, 6.5, 1, 3]);
-solve([6, 4]);
+solve([6, 4]);*/

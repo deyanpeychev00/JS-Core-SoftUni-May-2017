@@ -22,7 +22,7 @@ function solve(numStr) {
 
     console.log(numStr);
 }
-
+/*
 solve(101);
-solve(5835);
+solve(5835);*/
 
