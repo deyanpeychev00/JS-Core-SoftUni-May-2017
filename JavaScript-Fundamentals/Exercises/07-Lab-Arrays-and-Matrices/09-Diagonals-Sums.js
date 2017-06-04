@@ -14,8 +14,8 @@ function sum(matrix) {
     }
     sumArr.push(sumSecond);
 
-    console.log(sumArr.join(' '));
+    console.log(sumArr);
 
 }
 // sum([[20, 40], [10, 60]]);
-// sum([[3, 5, 17], [-1, 7, 14], [1, -8, 89]]);
+ sum([[3, 5, 17], [-1, 7, 14], [1, -8, 89]]);
