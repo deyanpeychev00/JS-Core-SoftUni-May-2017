@@ -20,24 +20,39 @@ function check(matrix) {
         for (let i = 0; i < matrix.length; i++) {
             for (let j = 0; j < matrix[i].length; j++) {
                 currSumRow += matrix[i][j];
-                currSumCol += matrix[j][i];
+
             }
-            if(currSumRow!== firstSum || currSumCol!==firstSum){
-                isMagic = false;
+            if(currSumRow!== firstSum){
+                return false;
             }
             currSumRow=0;
-            currSumCol=0
+        }
+        if(!isMagic) {
+            return false;
+        }
+        else{
+            let colLength = matrix[0].length;
+
+            for (let i = 0; i < colLength; i++) {
+                for (let j = 0; j < matrix.length; j++) {
+                    currSumCol +=matrix[i][j];
+                }
+                if(currSumCol!==firstSum){
+                    return false
+                }
+                currSumCol=0;
+            }
         }
 
-        console.log(isMagic);
+        return isMagic
 }
-check([[1, 2, 3],
+/*console.log(check([[1, 2, 3],
     [5, 0, 1],
     [0, 0, 6],
     [0, 6, 0],
     [0, 6, 0],
     [0, 6, 0]
 
-]);
+]));*/
 
 
