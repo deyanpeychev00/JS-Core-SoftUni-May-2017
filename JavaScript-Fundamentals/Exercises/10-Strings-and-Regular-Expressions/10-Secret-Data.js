@@ -2,10 +2,10 @@
  * Created by Deyan Peychev on 07-Jun-17.
  */
 function secretData(input) { // array of strings
-    let namesRegex = /\*[A-Z][a-z]*\b/g;
-    let phonesRegex = /\+[0-9-]{10}\b/g;
-    let idRegex = /![a-zA-Z0-9]+\b/g;
-    let baseNameRegex = /_[a-zA-Z0-9]+\b/g;
+    let namesRegex = /\*[A-Z][a-zA-Z]*(?=\s|$)/g;
+    let phonesRegex = /\+([0-9]|-){10}(?=\s|$)/g;
+    let idRegex = /![a-zA-Z0-9]+(?=\s|$)/g;
+    let baseNameRegex = /_[a-zA-Z0-9]+(?=\s|$)/g;
     let secretData = [];
 
     function replace(line, regex) {
@@ -36,7 +36,7 @@ function secretData(input) { // array of strings
     'I think it was +555-49-796',
 "I can't really remember...",
 'He said something about "finishing work" with subject !2491a23BVB34Q and returning to Base _Aurora21',
-'Then after that he disappeared from my sight.',
+'Then after that he disappeared from my sight .',
     'As if he vanished in the shadows.',
     'A moment, shorter than a second, later, I saw the person flying off the top floor.',
     "I really don't know what happened there.",
