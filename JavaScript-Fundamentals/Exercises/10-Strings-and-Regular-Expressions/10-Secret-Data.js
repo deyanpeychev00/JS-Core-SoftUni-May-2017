@@ -3,8 +3,8 @@
  */
 function secretData(input) { // array of strings
     let namesRegex = /\*[A-Z][a-zA-Z]*(?=\s|$)/g;
-    let phonesRegex = /\+([0-9]|-){10}(?=\s|$)/g;
-    let idRegex = /![a-zA-Z0-9]+(?=\s|$)/g;
+    let phonesRegex = /\+([0-9-]){10}(?=\s|$)/g;
+    let idRegex = /![a-zA-Z0-9]+(?=\s|\t|$)/g;
     let baseNameRegex = /_[a-zA-Z0-9]+(?=\s|$)/g;
     let secretData = [];
 
