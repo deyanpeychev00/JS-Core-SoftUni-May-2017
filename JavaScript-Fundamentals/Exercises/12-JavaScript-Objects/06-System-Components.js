@@ -36,6 +36,7 @@ function systemComponents(input) { //array of strings
             }
         }
     }
+
     function firstSort(a,b) {
         // console.log([...a[1].entries()].length + ' ' + [...b[1].entries()].length);
         if([...a[1].entries()].length < [...b[1].entries()].length){
@@ -50,6 +51,7 @@ function systemComponents(input) { //array of strings
             return 0;
         }
     }
+
     function secondSort(a,b) {
         if([...a[1].entries()].length < [...b[1].entries()].length){
             return 1;
