@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sum Numbers</title>
+</head>
+<body>
+    <input type="text" id="num1" /> +
+    <input type="text" id="num2" /> =
+    <input type="text" id="sum" readonly="readonly" />
+    <input type="button" value="Calc" onclick="calc()" />
+    <script>
+        function calc() {
+            // TODO: sum = num1 + num2
+            let firstNum = document.getElementById('num1').value;
+            let secondNum = document.getElementById('num2').value;
+            let sumBox = document.getElementById('sum');
+            sumBox.value = Number(firstNum) + Number(secondNum);
+        }
+    </script>
+</body>
+</html>
