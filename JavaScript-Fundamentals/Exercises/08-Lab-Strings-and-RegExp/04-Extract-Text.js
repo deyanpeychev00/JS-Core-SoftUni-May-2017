@@ -17,4 +17,4 @@ function extract(text) {
    }
    console.log(results.join(', '));
 }
-// extract('Rakiya (Bulgarian brandy) is self-made liquor (alcoholic drink)');
+extract('Rakiya (Bulgarian brandy) is self-made liquor (alcoholic drink)');
