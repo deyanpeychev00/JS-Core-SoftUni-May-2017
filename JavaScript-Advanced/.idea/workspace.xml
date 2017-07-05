@@ -14,61 +14,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="07-Monkey-Patcher.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises/07-Advanced-Functions/07-Monkey-Patcher.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-              <folding>
-                <element signature="e#60#132#0" expanded="false" />
-                <element signature="e#141#217#0" expanded="false" />
-                <element signature="e#226#1112#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="08-Euclid's-Algorithm.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/07-Advanced-Functions/08-Euclid's-Algorithm.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-              <folding>
-                <element signature="n#!!doc;n#findGTC#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="09-Kepler's-Problem.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/07-Advanced-Functions/09-Kepler's-Problem.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc;n#solve#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06-Breakfast-Robot.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/07-Advanced-Functions/06-Breakfast-Robot.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="81" column="28" lean-forward="false" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#49#0" expanded="false" />
-                <element signature="e#95#182#0" expanded="false" />
-                <element signature="e#203#684#0" expanded="false" />
-                <element signature="e#715#2035#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,6 +49,13 @@
         <option value="$PROJECT_DIR$/Exercises/07-Advanced-Functions/07-Monkey-Patcher.js" />
         <option value="$PROJECT_DIR$/Exercises/07-Advanced-Functions/08-Euclid's-Algorithm.js" />
         <option value="$PROJECT_DIR$/Exercises/07-Advanced-Functions/09-Kepler's-Problem.js" />
+        <option value="$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/03-List-Processor.js" />
+        <option value="$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/04-Cars.js" />
+        <option value="$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/05-Sum.html" />
+        <option value="$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/05-Sum/sum.html" />
+        <option value="$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/05-Sum/sum.js" />
+        <option value="$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/02-Fibonacci.js" />
+        <option value="$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/01-Order-Rectangles.js" />
       </list>
     </option>
   </component>
@@ -111,6 +64,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -134,7 +90,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -146,10 +101,6 @@
               <option name="myItemId" value="JavaScript-Advanced" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -162,48 +113,17 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="07-Advanced-Functions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-Advanced" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-Advanced" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="06-Lab-Advanced-Functions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-Advanced" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-Advanced" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaScript-Fundamentals" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
@@ -227,20 +147,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.08-Euclid's-Algorithm.js">
-    <configuration default="false" name="04-Personal-BMI.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04-Personal-BMI.js" working-dir="$PROJECT_DIR$/Exercises/07-Advanced-Functions">
-      <method />
-    </configuration>
-    <configuration default="false" name="05-Vector-Math.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-Vector-Math.js" working-dir="$PROJECT_DIR$/Exercises/07-Advanced-Functions">
-      <method />
-    </configuration>
-    <configuration default="false" name="06-Breakfast-Robot.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06-Breakfast-Robot.js" working-dir="$PROJECT_DIR$/Exercises/07-Advanced-Functions">
-      <method />
-    </configuration>
-    <configuration default="false" name="07-Monkey-Patcher.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07-Monkey-Patcher.js" working-dir="$PROJECT_DIR$/Exercises/07-Advanced-Functions">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.04-Cars.js">
     <configuration default="false" name="08-Euclid's-Algorithm.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="08-Euclid's-Algorithm.js" working-dir="$PROJECT_DIR$/Exercises/07-Advanced-Functions">
+      <method />
+    </configuration>
+    <configuration default="false" name="01-Order-Rectangles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01-Order-Rectangles.js" working-dir="$PROJECT_DIR$/Exercises/08-Lab-Object-Composition">
+      <method />
+    </configuration>
+    <configuration default="false" name="02-Fibonacci.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02-Fibonacci.js" working-dir="$PROJECT_DIR$/Exercises/08-Lab-Object-Composition">
+      <method />
+    </configuration>
+    <configuration default="false" name="03-List-Processor.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03-List-Processor.js" working-dir="$PROJECT_DIR$/Exercises/08-Lab-Object-Composition">
+      <method />
+    </configuration>
+    <configuration default="false" name="04-Cars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04-Cars.js" working-dir="$PROJECT_DIR$/Exercises/08-Lab-Object-Composition">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -310,19 +230,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.04-Personal-BMI.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.05-Vector-Math.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.06-Breakfast-Robot.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.07-Monkey-Patcher.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.08-Euclid's-Algorithm.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.08-Euclid's-Algorithm.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.01-Order-Rectangles.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.02-Fibonacci.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.03-List-Processor.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.04-Cars.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.08-Euclid's-Algorithm.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.07-Monkey-Patcher.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.06-Breakfast-Robot.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05-Vector-Math.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.04-Personal-BMI.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.04-Cars.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.03-List-Processor.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.02-Fibonacci.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.01-Order-Rectangles.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.08-Euclid's-Algorithm.js" />
       </list>
     </recent_temporary>
   </component>
@@ -340,22 +260,26 @@
       <workItem from="1499102201872" duration="1956000" />
       <workItem from="1499104198269" duration="2258000" />
       <workItem from="1499174022236" duration="12415000" />
+      <workItem from="1499193059002" duration="10000" />
+      <workItem from="1499256885686" duration="995000" />
+      <workItem from="1499285095484" duration="8529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24484000" />
+    <option name="totallyTimeSpent" value="34018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19441517" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15595363" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20364416" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2900433" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -363,7 +287,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -380,11 +303,41 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exercises/07-Advanced-Functions/07-Monkey-Patcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/07-Advanced-Functions/08-Euclid's-Algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/07-Advanced-Functions/09-Kepler's-Problem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/07-Advanced-Functions/06-Breakfast-Robot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="81" column="28" lean-forward="false" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/05-jQuery-Library/07-Wiki-Parser/wiki-parser.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -392,7 +345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -400,10 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="36" column="2" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc;n#processCommands#0" expanded="false" />
-            <element signature="n#!!block;n#processor#0;n#!!block;n#processCommands#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -411,9 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc;n#findMax#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -421,7 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -429,7 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,7 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -445,7 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -453,7 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -461,7 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="14" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -469,7 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,7 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -548,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -564,10 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="36" column="2" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc;n#processCommands#0" expanded="false" />
-            <element signature="n#!!block;n#processor#0;n#!!block;n#processCommands#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -575,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -583,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -591,7 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -599,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -607,7 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -615,9 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc;n#findMax#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,9 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc;n#argInfo#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,9 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#49#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -645,9 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc;n#solve#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,9 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#49#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,27 +576,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/07-Advanced-Functions/06-Breakfast-Robot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="81" column="28" lean-forward="false" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#49#0" expanded="false" />
-            <element signature="e#95#182#0" expanded="false" />
-            <element signature="e#203#684#0" expanded="false" />
-            <element signature="e#715#2035#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="38" column="28" lean-forward="false" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/07-Advanced-Functions/09-Kepler's-Problem.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc;n#solve#0" expanded="false" />
           </folding>
@@ -695,21 +599,87 @@
     <entry file="file://$PROJECT_DIR$/Exercises/07-Advanced-Functions/08-Euclid's-Algorithm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding>
-            <element signature="n#!!doc;n#findGTC#0" expanded="false" />
-          </folding>
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/07-Advanced-Functions/07-Monkey-Patcher.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        <state relative-caret-position="391">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/05-Sum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/05-Sum/sum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/05-Sum/sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
-            <element signature="e#60#132#0" expanded="false" />
-            <element signature="e#141#217#0" expanded="false" />
-            <element signature="e#226#1112#0" expanded="false" />
+            <element signature="n#!!doc;n#getModel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/01-Order-Rectangles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc;n#orderRectangles#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/02-Fibonacci.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/03-List-Processor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/08-Lab-Object-Composition/04-Cars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc;n#solve#0" expanded="false" />
           </folding>
         </state>
       </provider>

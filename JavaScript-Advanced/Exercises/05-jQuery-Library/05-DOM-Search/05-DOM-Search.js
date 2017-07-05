@@ -17,7 +17,7 @@ function domSearch(selector, isCaseSensitive) {
 
     // result controls
     let resultControls = $('<div class="result-controls"></div>');
-    let resultList = $('<ul class="items-list"></ul>');
+    let resultList = $('<ul class="items-collection"></ul>');
 
     // append controls to main container
     addControls.appendTo(mainContainer);
