@@ -23,4 +23,5 @@ function getPersons(){
     return output;
 }
 
+
 console.log(getPersons());
