@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Summary</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="holder">
+    <input type="button" id="summarize" value="Summarize"/>
+    <div id="content">
+        <p><strong>Important text. </strong>Not too important. <strong>Also useful info.</strong></p>
+    </div>
+</div>
+<script>
+    window.onload = function(){
+        summary('#summarize');
+    };
+    function summary(selector) {
+        let button = $(selector);
+        button.on('click', function () {
+            let summary = Array.from($('#content p strong')).map(el => $(el).text()).join('');
+            let summaryWrapper = $('<div id="summary">');
+            let heading = $('<h2>Summary</h2>');
+            let paragraph = $('<p>');
+            paragraph.text(summary);
+            heading.appendTo(summaryWrapper);
+            paragraph.appendTo(summaryWrapper);
+
+            let wrapper = $('#content');
+            summaryWrapper.appendTo(wrapper);
+        })
+    }
+</script>
+</body>
+</html>
