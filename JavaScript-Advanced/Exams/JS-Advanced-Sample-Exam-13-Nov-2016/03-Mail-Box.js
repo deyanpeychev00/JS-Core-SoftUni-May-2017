@@ -7,7 +7,12 @@ class MailBox {
     }
 
     addMessage(subject, text){
-        this.messages.push({subject: subject, text:text});
+        let message = {
+            subject: subject,
+            text: text
+        };
+        this.messages.push(message);
+
         return this;
     }
 
@@ -22,26 +27,29 @@ class MailBox {
     findBySubject(substr){
         let matches = [];
         for (let message of this.messages) {
-            let currentMessageText = message['text'];
+            let currentMessageText = message.subject;
             if(currentMessageText.indexOf(substr) !== -1){
-                matches.push(message);
+                let subject = message.subject;
+                let text = message.text;
+
+                matches.push({subject, text});
             }
         }
         return matches;
     }
 
     toString(){
-        let base = ' * (empty mailbox)';
+        if(this.messages.length === 0){
+            return ' * (empty mailbox)';
+        }
         if(this.messages.length !== 0){
-            base = [];
+            let base = '';
             for (let message of this.messages) {
-                let currentMessage = ` * [${message['subject']}] ${message['text']}`;
-                base.push(currentMessage);
+                base += ` * [${message['subject']}] ${message['text']}\n`;
             }
 
-            return base.join('\n');
+            return ' ' + base.trim();
         }
-        return base;
     }
 }
 

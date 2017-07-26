@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cards</title>
+    <style>
+        div.card {
+            display: inline-block; padding: 10px; margin: 10px;
+            width: 50px; height: 80px; background: #EEE;
+            border: 3px solid #DDD; border-radius: 5px;
+            font-size: 18pt; text-align: center; line-height: 75px;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="main"></div>
+<script>
+    function cardDeckBuilder(selector) {
+        let wrapper = $(selector);
+
+        let suits = {
+            'D': '\u2666',
+            'S': '\u2660',
+            'H': '\u2665',
+            'C': '\u2663'
+        };
+
+        let cards = [];
+
+        function reverseCards() {
+            $(selector).empty();
+            let newCards = cards;
+            cards = [];
+            for (let i = newCards.length - 1; i >=0; i--) {
+                $('<div>')
+                    .text(`${newCards[i].face} ${newCards[i].suit}`)
+                    .addClass('card')
+                    .on('click', reverseCards)
+                    .appendTo($(selector));
+
+                let card = {
+                    face: newCards[i].face,
+                    suit: newCards[i].suit
+                };
+                cards.push(card);
+            }
+        }
+
+        return{
+            addCard: function (face, suit) {
+                $('<div>')
+                    .text(`${face} ${suits[suit]}`)
+                    .addClass('card')
+                    .on('click', reverseCards)
+                    .appendTo(wrapper);
+
+                let card = {
+                    face: face,
+                    suit: suits[suit]
+                };
+                cards.push(card);
+            }
+        }
+    }
+</script>
+<script>
+    $(function() {
+        let builder = cardDeckBuilder("#main");
+        builder.addCard("10", "D");
+        builder.addCard("K", "S");
+        builder.addCard("Q", "H");
+        builder.addCard("4", "C");
+    });
+</script>
+</body>
+</html>

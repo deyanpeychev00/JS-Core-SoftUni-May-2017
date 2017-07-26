@@ -1,6 +1,7 @@
-/**
+/*
+*
  * Created by Deyan Peychev on 16-Jul-17.
- */
+*/
 class TrainingCourse{
     constructor(title, trainer){
         this.title = title;
