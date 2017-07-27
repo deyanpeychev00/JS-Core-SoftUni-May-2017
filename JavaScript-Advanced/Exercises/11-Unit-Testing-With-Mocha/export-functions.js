@@ -2,6 +2,7 @@
  * Created by Deyan Peychev on 10-Jul-17.
  */
 let $ = require('jquery');
+
 function isOddOrEven(string) {
     if (typeof(string) !== 'string') {
         return undefined;
