@@ -14,15 +14,78 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="301" column="34" lean-forward="false" selection-start-line="301" selection-start-column="34" selection-end-line="301" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#49#0" expanded="false" />
+                <element signature="e#1281#1412#0" expanded="false" />
+                <element signature="e#1445#1521#0" expanded="false" />
+                <element signature="e#1556#1615#0" expanded="false" />
+                <element signature="e#1674#2386#0" expanded="false" />
+                <element signature="e#2455#3108#0" expanded="false" />
+                <element signature="e#3140#3432#0" expanded="false" />
+                <element signature="e#3456#4147#0" expanded="false" />
+                <element signature="e#4174#5299#0" expanded="false" />
+                <element signature="e#5323#5791#0" expanded="false" />
+                <element signature="e#5683#5785#0" expanded="false" />
+                <element signature="e#5832#6276#0" expanded="false" />
+                <element signature="e#6310#7039#0" expanded="false" />
+                <element signature="e#7068#8125#0" expanded="false" />
+                <element signature="e#8014#8119#0" expanded="false" />
+                <element signature="e#8155#8638#0" expanded="false" />
+                <element signature="e#8530#8632#0" expanded="false" />
+                <element signature="e#8674#10083#0" expanded="false" />
+                <element signature="e#8947#10077#0" expanded="false" />
+                <marker date="1501766070297" expanded="true" signature="6543:6550" ph="..." />
+                <marker date="1501766070297" expanded="true" signature="6632:6640" ph="..." />
+                <marker date="1501766070297" expanded="true" signature="6731:6760" ph="..." />
+                <marker date="1501766070297" expanded="true" signature="10083:10086" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/views/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="107" column="26" lean-forward="false" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
+              <folding>
+                <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book-library.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/styles/book-library.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
         <option value="package_json" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -65,6 +128,10 @@
         <option value="$PROJECT_DIR$/05-Exercise-Asynchronous-Programming/01-Forecaster/forecaster.js" />
         <option value="$PROJECT_DIR$/05-Exercise-Asynchronous-Programming/02-Fisher-Game/catch.html" />
         <option value="$PROJECT_DIR$/05-Exercise-Asynchronous-Programming/02-Fisher-Game/catch.js" />
+        <option value="$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/app.js" />
+        <option value="$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/styles/book-library.css" />
+        <option value="$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/views/index.html" />
+        <option value="$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/scripts/app.js" />
       </list>
     </option>
   </component>
@@ -75,9 +142,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1057" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -94,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -117,30 +184,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="05-Exercise-Asynchronous-Programming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-Applications" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-Applications" />
+              <option name="myItemId" value="06-Lab-Single-Page-Application" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="05-Exercise-Asynchronous-Programming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02-Fisher-Game" />
+              <option name="myItemId" value="Book-Library" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -160,6 +214,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\06-Lab-Single-Page-Application\Book-Library\scripts" />
       <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\02-Lab-AJAX-and-jQuery-AJAX\01-XHR-Load" />
       <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\02-Lab-AJAX-and-jQuery-AJAX\00-ajax-load" />
     </key>
@@ -279,24 +334,25 @@
       <workItem from="1501674514274" duration="10000" />
       <workItem from="1501682830572" duration="361000" />
       <workItem from="1501693604319" duration="5340000" />
+      <workItem from="1501751678683" duration="15125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39220000" />
+    <option name="totallyTimeSpent" value="54345000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1057" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22008547" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15068494" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -334,19 +390,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05-Exercise-Asynchronous-Programming/02-Fisher-Game/catch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05-Exercise-Asynchronous-Programming/01-Forecaster/schedule.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -358,26 +406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#attachEvents#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-Exercise-Asynchronous-Programming/01-Forecaster/schedule.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-Exercise-Asynchronous-Programming/01-Forecaster/forecaster.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#attachEvents#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -583,9 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="452">
           <caret line="77" column="25" lean-forward="false" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc;n#attachEvents#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -600,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,16 +632,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/styles/book-library.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="107" column="26" lean-forward="false" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
           <folding>
-            <element signature="n#!!doc;n#attachEvents#0" expanded="false" />
-            <element signature="n#!!block;n#req#0;n#!!block;n#attachEvents#0" expanded="false" />
-            <element signature="n#!!block;n#loadCatches#0;n#!!block;n#attachEvents#0" expanded="false" />
-            <element signature="n#!!block;n#displayAllCatches#0;n#!!block;n#attachEvents#0" expanded="false" />
-            <element signature="n#!!block;n#addCatch#0;n#!!block;n#attachEvents#0" expanded="false" />
-            <element signature="n#!!block;n#updateCatch#0;n#!!block;n#attachEvents#0" expanded="false" />
-            <element signature="n#!!block;n#deleteCatch#0;n#!!block;n#attachEvents#0" expanded="false" />
-            <element signature="n#!!block;n#createDataJSON#0;n#!!block;n#attachEvents#0" expanded="false" />
-            <marker date="1501698897957" expanded="false" signature="3367:3412" ph="{...}" />
+            <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="301" column="34" lean-forward="false" selection-start-line="301" selection-start-column="34" selection-end-line="301" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#1281#1412#0" expanded="false" />
+            <element signature="e#1445#1521#0" expanded="false" />
+            <element signature="e#1556#1615#0" expanded="false" />
+            <element signature="e#1674#2386#0" expanded="false" />
+            <element signature="e#2455#3108#0" expanded="false" />
+            <element signature="e#3140#3432#0" expanded="false" />
+            <element signature="e#3456#4147#0" expanded="false" />
+            <element signature="e#4174#5299#0" expanded="false" />
+            <element signature="e#5323#5791#0" expanded="false" />
+            <element signature="e#5683#5785#0" expanded="false" />
+            <element signature="e#5832#6276#0" expanded="false" />
+            <element signature="e#6310#7039#0" expanded="false" />
+            <element signature="e#7068#8125#0" expanded="false" />
+            <element signature="e#8014#8119#0" expanded="false" />
+            <element signature="e#8155#8638#0" expanded="false" />
+            <element signature="e#8530#8632#0" expanded="false" />
+            <element signature="e#8674#10083#0" expanded="false" />
+            <element signature="e#8947#10077#0" expanded="false" />
+            <marker date="1501766070297" expanded="true" signature="6543:6550" ph="..." />
+            <marker date="1501766070297" expanded="true" signature="6632:6640" ph="..." />
+            <marker date="1501766070297" expanded="true" signature="6731:6760" ph="..." />
+            <marker date="1501766070297" expanded="true" signature="10083:10086" ph="..." />
           </folding>
         </state>
       </provider>
