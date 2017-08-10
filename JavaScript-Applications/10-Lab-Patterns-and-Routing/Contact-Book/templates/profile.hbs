@@ -1,0 +1,24 @@
+<div class="container">
+    {{> header}}
+    <div class="box-large">
+        <h1>My Profile</h1>
+        <div class="content">
+            <div class="info">
+                <div class="col centered">
+                    <span class="avatar">&#9787;</span>
+                    <button>Change</button>
+                </div>
+                <div class="col">
+                    <form class="profile-editor">
+                        <label>First name:</label><input name="firstName" type="text" value="Ivan"><br>
+                        <label>Last name:</label><input name="lastName" type="text" value="Ivanov"><br>
+                        <label>Phone:</label><input name="phone" type="text" value="0887 123 456"><br>
+                        <label>E-mail:</label><input name="email" type="text" value="i.ivanov@gmail.com"><br>
+                        <input type="submit" value="Save changes">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{> footer}}
+</div>
