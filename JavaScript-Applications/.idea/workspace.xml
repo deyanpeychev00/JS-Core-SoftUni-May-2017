@@ -16,49 +16,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/index.html">
+        <entry file="file://$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="425">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="auth.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/auth.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contacts.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/controllers/contacts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-              <folding>
-                <element signature="e#0#49#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#230#532#0" expanded="false" />
-                <element signature="e#577#880#0" expanded="false" />
-                <element signature="e#988#1291#0" expanded="false" />
-                <element signature="e#1336#1514#0" expanded="false" />
-                <element signature="e#1582#1941#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -87,15 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04-Asynchronous-Programming/00-promises-example.js" />
-        <option value="$PROJECT_DIR$/04-Asynchronous-Programming/00-example-AJAX-jQuery.html" />
-        <option value="$PROJECT_DIR$/04-Asynchronous-Programming/01-Github-Commits/commits.html" />
-        <option value="$PROJECT_DIR$/04-Asynchronous-Programming/01-Github-Commits/load-commits.js" />
-        <option value="$PROJECT_DIR$/04-Asynchronous-Programming/02-Blog/blog.html" />
-        <option value="$PROJECT_DIR$/04-Asynchronous-Programming/02-Blog/solution.js" />
-        <option value="$PROJECT_DIR$/05-Exercise-Asynchronous-Programming/01-Forecaster/schedule.html" />
-        <option value="$PROJECT_DIR$/05-Exercise-Asynchronous-Programming/01-Forecaster/forecaster.js" />
-        <option value="$PROJECT_DIR$/05-Exercise-Asynchronous-Programming/02-Fisher-Game/catch.html" />
         <option value="$PROJECT_DIR$/05-Exercise-Asynchronous-Programming/02-Fisher-Game/catch.js" />
         <option value="$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/app.js" />
         <option value="$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/styles/book-library.css" />
@@ -138,6 +91,15 @@
         <option value="$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/app.js" />
         <option value="$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/index.html" />
         <option value="$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/controllers/contacts.js" />
+        <option value="$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Skeleton/Team-Manager-Skeleton/scripts/models/teamsService.js" />
+        <option value="$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Skeleton/Team-Manager-Skeleton/scripts/models/dislpay-pages.js" />
+        <option value="$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Skeleton/Team-Manager-Skeleton/scripts/models/team-service.js" />
+        <option value="$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Skeleton/Team-Manager-Skeleton/scripts/models/requester.js" />
+        <option value="$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Skeleton/Team-Manager-Skeleton/index.html" />
+        <option value="$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Skeleton/Team-Manager-Skeleton/scripts/models/router.js" />
+        <option value="$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Skeleton/Team-Manager-Skeleton/scripts/app.js" />
+        <option value="$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Skeleton/Team-Manager-Skeleton/scripts/models/page-controller.js" />
+        <option value="$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/index.html" />
       </list>
     </option>
   </component>
@@ -152,7 +114,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1028" />
+    <option name="width" value="1085" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
@@ -170,8 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -194,7 +154,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="10-Lab-Patterns-and-Routing" />
+              <option name="myItemId" value="11-Exercise-Patterns-and-Routing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -208,30 +168,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08-Lab-Templating" />
+              <option name="myItemId" value="11-Exercise-Patterns-and-Routing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="01-Contact-Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-Applications" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-Applications" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08-Lab-Templating" />
+              <option name="myItemId" value="Team-Manager-Homework" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,16 +197,16 @@
     <property name="SearchEverywhereHistoryKey" value="chip&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\10-Lab-Patterns-and-Routing\Contact-Book\templates" />
-      <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\10-Lab-Patterns-and-Routing\Contact-Book\templates\common" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\11-Exercise-Patterns-and-Routing" />
       <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\10-Lab-Patterns-and-Routing\Contact-Book" />
       <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\10-Lab-Patterns-and-Routing\Contact-Book\javascripts" />
       <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\10-Lab-Patterns-and-Routing\Contact-Book\templates\common" />
       <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\10-Lab-Patterns-and-Routing\Contact-Book\templates" />
-      <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\09-Exercise-Templating\Deyan Peychev - HTTP Status Cats - Homework\images\header" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\10-Lab-Patterns-and-Routing\Contact-Book\templates" />
+      <recent name="E:\SoftUni\JS-Core-SoftUni-May-2017\JavaScript-Applications\10-Lab-Patterns-and-Routing\Contact-Book\templates\common" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -384,19 +332,19 @@
       <workItem from="1502277420978" duration="4694000" />
       <workItem from="1502282569579" duration="380000" />
       <workItem from="1502363540562" duration="10993000" />
+      <workItem from="1502707070145" duration="8061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75600000" />
+    <option name="totallyTimeSpent" value="83661000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1028" height="1057" extended-state="0" />
+    <frame x="-7" y="0" width="1085" height="1057" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27373737" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25883478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -409,6 +357,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -420,76 +369,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/06-Lab-Single-Page-Application/Book-Library/styles/book-library.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-Lab-Templating/00-Demo/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-Lab-Templating/01-Contact-Book/Deyan Peychev - Contact Book - Homework/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="87" lean-forward="false" selection-start-line="26" selection-start-column="87" selection-end-line="26" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-Lab-Templating/00-Demo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-Lab-Templating/00-Demo/template-greeting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-Lab-Templating/01-Contact-Book/Deyan Peychev - Contact Book - Homework/style/contact.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09-Exercise-Templating/Handlebars-Exercises-Skeleton/images/cat301.jpg" />
-    <entry file="file://$PROJECT_DIR$/09-Exercise-Templating/Handlebars-Exercises-Skeleton/catSeeder.js" />
-    <entry file="file://$PROJECT_DIR$/08-Lab-Templating/01-Contact-Book/Deyan Peychev - Contact Book - Homework/views/contacts-list.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-Lab-Templating/01-Contact-Book/Deyan Peychev - Contact Book - Homework/views/contact.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-Lab-Templating/01-Contact-Book/Deyan Peychev - Contact Book - Homework/views/details.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/09-Exercise-Templating/Handlebars-Exercises-Skeleton/templates/status-code.hbs" />
     <entry file="file://$PROJECT_DIR$/09-Exercise-Templating/Handlebars-Exercises-Skeleton/templates/cats-list.hbs" />
     <entry file="file://$PROJECT_DIR$/09-Exercise-Templating/Handlebars-Exercises-Skeleton/cats.html" />
@@ -512,7 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -520,7 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,9 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="29" column="3" lean-forward="false" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#49#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -562,9 +441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#49#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -572,7 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-368">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -580,7 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="805">
           <caret line="114" column="16" lean-forward="false" selection-start-line="114" selection-start-column="16" selection-end-line="114" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -588,23 +462,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/templates/greet.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/templates/greet.hbs" />
     <entry file="file://$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/templates/common/contacts-list.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -612,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,7 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,7 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -636,7 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="797">
           <caret line="58" column="3" lean-forward="true" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -652,7 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,7 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,7 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,7 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,31 +580,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#49#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/auth.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#230#532#0" expanded="false" />
-            <element signature="e#577#880#0" expanded="false" />
-            <element signature="e#988#1291#0" expanded="false" />
-            <element signature="e#1336#1514#0" expanded="false" />
-            <element signature="e#1582#1941#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,14 +595,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/controllers/contacts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <caret line="18" column="2" lean-forward="false" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
           <folding>
             <element signature="e#0#49#0" expanded="false" />
           </folding>
@@ -773,7 +611,127 @@
     <entry file="file://$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/scripts/models/requester.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="e#577#880#0" expanded="false" />
+            <element signature="e#988#1291#0" expanded="false" />
+            <element signature="e#1336#1514#0" expanded="false" />
+            <element signature="e#1582#1941#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/catalog/teamMember.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/catalog/details.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="59" lean-forward="false" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/scripts/models/page-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#106#210#0" expanded="false" />
+            <element signature="e#242#377#0" expanded="false" />
+            <element signature="e#409#570#0" expanded="false" />
+            <element signature="e#603#767#0" expanded="false" />
+            <element signature="e#796#1036#0" expanded="false" />
+            <element signature="e#1065#1415#0" expanded="false" />
+            <element signature="e#1442#1675#0" expanded="false" />
+            <element signature="e#1707#1962#0" expanded="false" />
+            <element signature="e#1994#2566#0" expanded="false" />
+            <element signature="e#2597#3170#0" expanded="false" />
+            <element signature="e#3204#3469#0" expanded="false" />
+            <element signature="e#3503#4103#0" expanded="false" />
+            <element signature="e#4138#4932#0" expanded="false" />
+            <element signature="e#4961#5269#0" expanded="false" />
+            <element signature="e#5298#5552#0" expanded="false" />
+            <element signature="e#5584#6176#0" expanded="false" />
+            <element signature="e#6208#6583#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/catalog/teamControls.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/scripts/models/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/login/loginForm.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="80" lean-forward="false" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/scripts/models/team-service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="5" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/home/home.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
