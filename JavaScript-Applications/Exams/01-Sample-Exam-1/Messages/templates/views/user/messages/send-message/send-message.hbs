@@ -1,0 +1,22 @@
+<section id="viewSendMessage">
+    <h1>Send Message</h1>
+    <form id="formSendMessage" action="#/send" method="post">
+        <div>Recipient:</div>
+        <div>
+            <select name="recipient" required id="msgRecipientUsername">
+                {{#each userList}}
+                    <option value="{{username}}">
+                        {{#if name}}
+                            {{name}} ({{username}})
+                        {{else}}
+                            {{username}}
+                        {{/if}}
+                    </option>
+                {{/each}}
+            </select>
+        </div>
+        <div>Message Text:</div>
+        <div><input type="text" name="text" required id="msgText"/></div>
+        <div><input type="submit" value="Send"/></div>
+    </form>
+</section>

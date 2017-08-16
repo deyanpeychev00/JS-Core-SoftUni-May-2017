@@ -1,0 +1,25 @@
+<section id="viewArchiveSent">
+    <h1>Archive (Sent Messages)</h1>
+    <div class="messages" id="sentMessages">
+        <table>
+            <thead>
+            <tr>
+                <th>To</th>
+                <th>Message</th>
+                <th>Date Sent</th>
+                <th>Actions</th>
+            </tr>
+            </thead>
+            <tbody>
+            {{#each messages}}
+                <tr>
+                    <td>{{recipient_username}}</td>
+                    <td>{{text}}</td>
+                    <td>{{timestamp}}</td>
+                    <td><button data-id="{{_id}}">Delete</button></td>
+                </tr>
+            {{/each}}
+            </tbody>
+        </table>
+    </div>
+</section>

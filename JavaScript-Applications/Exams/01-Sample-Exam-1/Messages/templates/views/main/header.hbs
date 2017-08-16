@@ -1,0 +1,17 @@
+<header id="menu">
+
+    {{#if loggedIn}}
+        <a href="#" id="linkMenuUserHome">Home</a>
+        <a href="#/messages" id="linkMenuMyMessages">My Messages</a>
+        <a href="#/archive" id="linkMenuArchiveSent">Archive (Sent)</a>
+        <a href="#/send" id="linkMenuSendMessage">Send Message</a>
+        <a href="#/logout" id="linkMenuLogout">Logout</a>
+
+        <span class="useronly" id="spanMenuLoggedInUser">Welcome, {{username}}!</span>
+    {{else}}
+        <a href="#"  id="linkMenuAppHome">Home</a>
+        <a href="#/login"  id="linkMenuLogin">Login</a>
+        <a href="#/register" id="linkMenuRegister">Register</a>
+    {{/if}}
+
+</header>
