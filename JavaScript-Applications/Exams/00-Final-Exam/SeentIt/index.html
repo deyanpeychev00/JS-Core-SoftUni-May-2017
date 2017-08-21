@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SeenIt</title>
+    <link rel="stylesheet" href="style/site.css">
+    <link rel="stylesheet" href="style/post.css">
+    <link rel="stylesheet" href="style/header.css">
+    <link rel="stylesheet" href="style/menu.css">
+    <link rel="stylesheet" href="style/submit.css">
+    <link rel="stylesheet" href="style/comments.css">
+    <link rel="stylesheet" href="style/notifications.css">
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/handlebars/dist/handlebars.min.js"></script>
+    <script src="node_modules/sammy/lib/min/sammy-0.7.6.min.js"></script>
+    <script src="node_modules/sammy/lib/min/plugins/sammy.handlebars-0.7.6.min.js"></script>
+    <script src="scripts/models/requester.js"></script>
+    <script src="scripts/models/auth.js"></script>
+    <script src="scripts/models/service.js"></script>
+    <script src="scripts/controllers/page-controller.js"></script>
+    <script src="scripts/app.js"></script>
+</head>
+<body>
+
+<div id="container">
+    <div class="content" id="app">
+
+
+    </div>
+</div>
+<div id="notifications">
+    <div id="loadingBox" class="notification"><span>Loading …</span></div>
+    <div id="infoBox" class="notification"><span>Info</span></div>
+    <div id="errorBox" class="notification"><span>Error</span></div>
+</div>
+</body>
+</html>

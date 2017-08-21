@@ -1,0 +1,15 @@
+<section id="viewCatalog">
+    <div class="posts">
+        {{#each publications}}
+            {{>post}}
+        {{else}}
+            <article class="post">
+                <div class="post-content">
+                    <div class="title">
+                            No posts in database.
+                    </div>
+                </div>
+            </article>
+        {{/each}}
+    </div>
+</section>

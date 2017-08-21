@@ -2,890 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45095876-f8c0-4352-a219-f8272f866a65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/01-Lab-REST-Services/2. JS-Apps-HTTP-and-REST-Lab.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/02-Lab-AJAX-and-jQuery-AJAX/01-XHR-Load/load-repos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/02-Lab-AJAX-and-jQuery-AJAX/01-XHR-Load/load-repos.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/02-Lab-AJAX-and-jQuery-AJAX/02-AJAX-Load/ajax-load.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/02-Lab-AJAX-and-jQuery-AJAX/02-AJAX-Load/ajax-load.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/02-Lab-AJAX-and-jQuery-AJAX/02-AJAX-Load/text.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/02-Lab-AJAX-and-jQuery-AJAX/03-Github-Repos/github-repos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/02-Lab-AJAX-and-jQuery-AJAX/03-Github-Repos/github-repos.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/02-Lab-AJAX-and-jQuery-AJAX/04-Phonebook/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/02-Lab-AJAX-and-jQuery-AJAX/04-Phonebook/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/02-Lab-AJAX-and-jQuery-AJAX/04-Phonebook/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/02-Lab-AJAX-and-jQuery-AJAX/3. JS-Apps-jQuery-AJAX-Lab.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/03-Exercise-REST-and-HTTP-Requests/01-Bus-Stop/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/03-Exercise-REST-and-HTTP-Requests/01-Bus-Stop/buses.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/03-Exercise-REST-and-HTTP-Requests/02-Bus-Schedule/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/03-Exercise-REST-and-HTTP-Requests/02-Bus-Schedule/schedule.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/03-Exercise-REST-and-HTTP-Requests/03-Messenger/messenger.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/03-Exercise-REST-and-HTTP-Requests/03-Messenger/messenger.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/03-Exercise-REST-and-HTTP-Requests/03-Messenger/solution.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/03-Exercise-REST-and-HTTP-Requests/04-Phonebook/phonebook.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/03-Exercise-REST-and-HTTP-Requests/04-Phonebook/phonebook.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/03-Exercise-REST-and-HTTP-Requests/4. JS-Apps-jQuery-AJAX-Exercises.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/04-Lab-Asynchronous-Programming/00-example-AJAX-jQuery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/04-Lab-Asynchronous-Programming/00-promises-example.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/04-Lab-Asynchronous-Programming/01-Github-Commits/commits.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/04-Lab-Asynchronous-Programming/01-Github-Commits/load-commits.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/04-Lab-Asynchronous-Programming/02-Blog/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/04-Lab-Asynchronous-Programming/02-Blog/solution.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/04-Lab-Asynchronous-Programming/4. JS-Apps-Async-Programming-and-Promises.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/05-Exercise-Asynchronous-Programming/01-Forecaster/forecaster.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/05-Exercise-Asynchronous-Programming/01-Forecaster/schedule.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/05-Exercise-Asynchronous-Programming/02-Fisher-Game/catch.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/05-Exercise-Asynchronous-Programming/02-Fisher-Game/catch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/05-Exercise-Asynchronous-Programming/6. JS-Apps-Async-Programming-Exercises.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/06-Lab-Single-Page-Application/Book-Library/.idea/Book-Library.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/06-Lab-Single-Page-Application/Book-Library/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/06-Lab-Single-Page-Application/Book-Library/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/06-Lab-Single-Page-Application/Book-Library/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/06-Lab-Single-Page-Application/Book-Library/scripts/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/06-Lab-Single-Page-Application/Book-Library/scripts/jquery-3.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/06-Lab-Single-Page-Application/Book-Library/styles/book-library.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/06-Lab-Single-Page-Application/Book-Library/views/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/07-Exercise-Single-Page-Application/8. JS-Apps-SPA-with-AJAX-REST-Kinvey-Exercises.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/07-Exercise-Single-Page-Application/Prodavachnik - Skeleton.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/07-Exercise-Single-Page-Application/Prodavachnik - Skeleton/Prodavachnik - Skeleton/.idea/Prodavachnik.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/07-Exercise-Single-Page-Application/Prodavachnik - Skeleton/Prodavachnik - Skeleton/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/07-Exercise-Single-Page-Application/Prodavachnik - Skeleton/Prodavachnik - Skeleton/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/07-Exercise-Single-Page-Application/Prodavachnik - Skeleton/Prodavachnik - Skeleton/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/07-Exercise-Single-Page-Application/Prodavachnik - Skeleton/Prodavachnik - Skeleton/.idea/watcherTasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/07-Exercise-Single-Page-Application/Prodavachnik - Skeleton/Prodavachnik - Skeleton/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/07-Exercise-Single-Page-Application/Prodavachnik - Skeleton/Prodavachnik - Skeleton/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/07-Exercise-Single-Page-Application/Prodavachnik - Skeleton/Prodavachnik - Skeleton/scripts/jquery-3.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/07-Exercise-Single-Page-Application/Prodavachnik - Skeleton/Prodavachnik - Skeleton/scripts/prodavachnik.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/07-Exercise-Single-Page-Application/Prodavachnik - Skeleton/Prodavachnik - Skeleton/styles/prodavachnik.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/.idea/08-Lab-Templating.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/00-Demo/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/00-Demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/00-Demo/template-greeting.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/01-Contact-Book/Deyan Peychev - Contact Book - Homework/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/01-Contact-Book/Deyan Peychev - Contact Book - Homework/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/01-Contact-Book/Deyan Peychev - Contact Book - Homework/style/contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/01-Contact-Book/Deyan Peychev - Contact Book - Homework/style/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/01-Contact-Book/Deyan Peychev - Contact Book - Homework/views/contact.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/01-Contact-Book/Deyan Peychev - Contact Book - Homework/views/contacts-list.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/08-Lab-Templating/01-Contact-Book/Deyan Peychev - Contact Book - Homework/views/details.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/10. JS-Apps-Templating-Exercises.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/catSeeder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/cats.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/images/cat100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/images/cat200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/images/cat204.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/images/cat301.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/images/cat304.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/images/cat400.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/images/cat404.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/images/cat406.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/images/cat410.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/images/cat500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/images/cat511.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/images/header/cat-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/styles/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/templates/cat.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/templates/cats-list.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/09-Exercise-Templating/Deyan Peychev - HTTP Status Cats - Homework/templates/status-code.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/auth.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/controllers/contacts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/javascripts/remote.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/style/contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/style/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/templates/common/contact.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/templates/common/contacts-list.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/templates/common/details.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/templates/common/footer.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/templates/common/header.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/templates/contacts.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/templates/profile.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/templates/register.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Contact-Book/templates/welcome.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Router-Live/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Router-Live/router.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Sammy-Live/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/10-Lab-Patterns-and-Routing/Sammy-Live/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/css/details.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/css/team.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/scripts/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/scripts/models/auth.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/scripts/models/page-controller.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/scripts/models/requester.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/scripts/models/team-service.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/about/about.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/catalog/details.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/catalog/team.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/catalog/teamCatalog.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/catalog/teamControls.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/catalog/teamMember.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/common/footer.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/common/header.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/create/createForm.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/create/createPage.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/edit/editForm.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/edit/editPage.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/home/home.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/login/loginForm.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/login/loginPage.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/register/registerForm.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/templates/register/registerPage.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/.bin/handlebars" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/.bin/handlebars.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/.bin/uglifyjs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/.bin/uglifyjs.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/.idea/00-jQuery.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/align-text/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/align-text/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/align-text/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/align-text/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/amdefine/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/amdefine/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/amdefine/amdefine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/amdefine/intercept.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/amdefine/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/async/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/async/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/async/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/async/dist/async.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/async/dist/async.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/async/lib/async.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/async/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/dist/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/grunt/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/grunt/bs-commonjs-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/grunt/bs-glyphicons-data-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/grunt/bs-lessdoc-parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/grunt/bs-raw-files-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/grunt/change-version.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/grunt/configBridge.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/grunt/npm-shrinkwrap.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/grunt/sauce_browsers.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/js/affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/js/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/js/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/js/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/js/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/js/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/js/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/js/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/js/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/js/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/js/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/js/transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/badges.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/close.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/media.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/background-variant.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/border-radius.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/center-block.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/clearfix.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/gradients.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/grid-framework.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/hide-text.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/image.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/nav-divider.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/nav-vertical-align.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/opacity.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/progress-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/reset-filter.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/reset-text.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/resize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/responsive-visibility.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/size.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/tab-focus.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/table-row.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/text-emphasis.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/text-overflow.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/mixins/vendor-prefixes.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/print.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/responsive-embed.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/type.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/less/wells.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/bootstrap/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/camelcase/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/camelcase/license" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/camelcase/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/camelcase/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/center-align/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/center-align/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/center-align/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/center-align/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/center-align/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/.coveralls.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/node_modules/wordwrap/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/node_modules/wordwrap/README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/node_modules/wordwrap/example/center.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/node_modules/wordwrap/example/meat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/node_modules/wordwrap/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/node_modules/wordwrap/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/node_modules/wordwrap/test/break.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/node_modules/wordwrap/test/idleness.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/node_modules/wordwrap/test/wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/cliui/test/cliui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/decamelize/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/decamelize/license" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/decamelize/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/decamelize/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.gitmodules" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.idea/handlebars.js.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.idea/watcherTasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.istanbul.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/FAQ.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/bin/handlebars" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars.runtime.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/compiler/ast.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/compiler/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/compiler/code-gen.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/compiler/compiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/compiler/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/compiler/javascript-compiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/compiler/parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/compiler/printer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/compiler/visitor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/compiler/whitespace-control.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/decorators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/decorators/inline.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/exception.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/helpers/block-helper-missing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/helpers/each.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/helpers/helper-missing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/helpers/if.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/helpers/log.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/helpers/lookup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/helpers/with.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/logger.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/no-conflict.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/runtime.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/safe-string.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/handlebars/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/amd/precompiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars.runtime.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/compiler/ast.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/compiler/code-gen.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/compiler/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/compiler/javascript-compiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/compiler/printer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/compiler/visitor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/compiler/whitespace-control.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/decorators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/decorators/inline.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/exception.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/helpers/block-helper-missing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/helpers/each.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/helpers/helper-missing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/helpers/if.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/helpers/log.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/helpers/lookup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/helpers/with.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/logger.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/no-conflict.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/runtime.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/safe-string.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/handlebars/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/cjs/precompiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/handlebars.amd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/handlebars.amd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/handlebars.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/handlebars.runtime.amd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/handlebars.runtime.amd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/handlebars.runtime.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/dist/handlebars.runtime.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/docs/compiler-api.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/docs/decorators-api.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars.runtime.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/compiler/ast.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/compiler/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/compiler/code-gen.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/compiler/compiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/compiler/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/compiler/javascript-compiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/compiler/parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/compiler/printer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/compiler/visitor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/compiler/whitespace-control.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/decorators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/decorators/inline.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/exception.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/helpers/block-helper-missing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/helpers/each.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/helpers/helper-missing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/helpers/if.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/helpers/log.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/helpers/lookup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/helpers/with.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/logger.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/no-conflict.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/runtime.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/safe-string.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/handlebars/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/lib/precompiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/print-script" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/release-notes.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/handlebars/runtime.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/is-buffer/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/is-buffer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/is-buffer/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/is-buffer/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/is-buffer/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/is-buffer/test/basic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery-3.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/AUTHORS.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/dist/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/dist/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/dist/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/dist/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/dist/jquery.slim.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/dist/jquery.slim.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/dist/jquery.slim.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/external/sizzle/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/external/sizzle/dist/sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/external/sizzle/dist/sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/external/sizzle/dist/sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/ajax/jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/ajax/load.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/ajax/parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/ajax/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/ajax/var/location.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/ajax/var/nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/ajax/var/rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/ajax/xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/attributes/attr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/attributes/classes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/attributes/prop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/attributes/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/attributes/val.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/core/DOMEval.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/core/access.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/core/init.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/core/nodeName.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/core/parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/core/ready-no-deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/core/ready.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/core/readyException.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/core/stripAndCollapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/core/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/core/var/rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css/addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css/adjustCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css/curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css/showHide.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css/var/cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css/var/getStyles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css/var/isHiddenWithinTree.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css/var/rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css/var/rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/css/var/swap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/data/Data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/data/var/acceptData.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/data/var/dataPriv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/data/var/dataUser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/deferred/exceptionHook.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/effects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/effects/Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/effects/animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/event.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/event/ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/event/alias.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/event/focusin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/event/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/event/trigger.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/exports/amd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/exports/global.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/manipulation/_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/manipulation/buildFragment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/manipulation/getAll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/manipulation/setGlobalEval.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/manipulation/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/manipulation/var/rscriptType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/manipulation/var/rtagName.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/manipulation/wrapMap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/offset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/queue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/queue/delay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/selector-native.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/selector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/traversing/findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/traversing/var/dir.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/traversing/var/siblings.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/ObjectFunctionString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/arr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/concat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/document.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/documentElement.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/fnToString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/getProto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/push.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/rcssNum.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/rnothtmlwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/slice.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/var/toString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/jquery/src/wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/kind-of/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/kind-of/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/kind-of/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/kind-of/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/lazy-cache/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/lazy-cache/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/lazy-cache/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/lazy-cache/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/longest/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/longest/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/longest/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/longest/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/example/parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/readme.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/test/bool.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/test/dash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/test/default_bool.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/test/dotted.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/test/long.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/test/num.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/test/parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/test/parse_modified.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/test/short.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/minimist/test/whitespace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/bool.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/boolean_double.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/boolean_single.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/default_hash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/default_singles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/divide.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/line_count.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/line_count_options.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/line_count_wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/nonopt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/reflect.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/short.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/string.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/usage-options.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/example/xup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/readme.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/test/_.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/test/_/argv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/test/_/bin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/test/dash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/test/parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/test/parse_modified.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/test/short.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/test/usage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/optimist/test/whitespace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/repeat-string/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/repeat-string/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/repeat-string/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/repeat-string/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/right-align/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/right-align/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/right-align/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/right-align/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/app.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/config.ru" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/public/javascripts/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/public/javascripts/jquery.cloudkit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/public/javascripts/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/public/javascripts/sammy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/public/javascripts/sammy.json.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/public/javascripts/sammy.storage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/public/javascripts/sammy.template.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/public/templates/index.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/public/templates/task.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/public/templates/task_details.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/views/app.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/backend/views/index.haml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/ejs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/ejs/what.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/ejs/who.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/form_handling/files/form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/form_handling/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/examples/hello_world/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.cache-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.cache-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.data_location_proxy-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.data_location_proxy-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.ejs-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.ejs-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.exceptional-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.exceptional-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.flash-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.flash-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.form-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.form-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.form_2_json-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.form_2_json-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.googleanalytics-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.googleanalytics-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.haml-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.haml-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.handlebars-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.handlebars-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.hogan-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.hogan-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.hoptoad-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.hoptoad-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.json-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.json-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.kissmetrics-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.kissmetrics-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.meld-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.meld-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.mixpanel-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.mixpanel-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.mustache-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.mustache-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.nested_params-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.nested_params-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.oauth2-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.oauth2-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.path_location_proxy-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.path_location_proxy-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.pure-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.pure-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.push_location_proxy-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.push_location_proxy-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.storage-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.storage-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.template-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.template-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.title-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.title-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.tmpl-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/plugins/sammy.tmpl-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/sammy-0.7.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/min/sammy-latest.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.cache.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.data_location_proxy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.ejs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.exceptional.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.flash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.form_2_json.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.googleanalytics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.haml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.hogan.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.hoptoad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.json.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.kissmetrics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.meld.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.mixpanel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.mustache.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.nested_params.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.oauth2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.path_location_proxy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.pure.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.push_location_proxy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.storage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.template.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.title.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/plugins/sammy.tmpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/lib/sammy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/application_spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/event_context_spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/exceptional_spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/item.hogan" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/item.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/item.template" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/item2.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/meld/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/meld/1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/meld/1.meld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/meld/2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/meld/2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/meld/2.meld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/meld/3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/meld/3.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/meld/3.meld" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/other_partial.template" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/partial" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/partial.hogan" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/partial.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/partial.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/partial.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/partial.noengine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/partial.template" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/fixtures/partial2.mustache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/flash_spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/hoptoad_spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/location_proxy_spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/meld_spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/plugins_spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/render_context_spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/storage_spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/test/test_server" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/docs.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/jsdoc/jsdoc.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/jsdoc/templates/klass.haml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/jsdoc/templates/menu.haml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/jsdoc/templates/method.haml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/jslitmus.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/mocha/expect.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/mocha/helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/mocha/mocha.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/mocha/mocha.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/qunit-spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/qunit/qunit.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/qunit/qunit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/templating/ejs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/templating/haml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/templating/handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/templating/hogan.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/templating/mustache.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/templating/pure.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/sammy/vendor/templating/tmpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/build/assert-shim.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/build/mini-require.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/build/prefix-source-map.jsm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/build/prefix-utils.jsm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/build/suffix-browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/build/suffix-source-map.jsm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/build/suffix-utils.jsm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/build/test-prefix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/build/test-suffix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/lib/source-map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/lib/source-map/array-set.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/lib/source-map/base64-vlq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/lib/source-map/base64.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/lib/source-map/binary-search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/lib/source-map/mapping-list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/lib/source-map/quick-sort.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/lib/source-map/source-map-consumer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/lib/source-map/source-map-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/lib/source-map/source-node.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/lib/source-map/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/source-map/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/bin/extract-props.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/bin/uglifyjs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/lib/ast.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/lib/compress.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/lib/mozilla-ast.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/lib/output.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/lib/parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/lib/propmangle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/lib/scope.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/lib/sourcemap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/lib/transform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/lib/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/dist/source-map.debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/dist/source-map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/dist/source-map.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/dist/source-map.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/lib/array-set.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/lib/base64-vlq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/lib/base64.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/lib/binary-search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/lib/mapping-list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/lib/quick-sort.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/lib/source-map-consumer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/lib/source-map-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/lib/source-node.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/lib/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/node_modules/source-map/source-map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/tools/domprops.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/tools/exports.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/tools/node.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-js/tools/props.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-to-browserify/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-to-browserify/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-to-browserify/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-to-browserify/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-to-browserify/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-to-browserify/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/uglify-to-browserify/test/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/window-size/LICENSE-MIT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/window-size/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/window-size/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/window-size/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/wordwrap/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/wordwrap/README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/wordwrap/example/center.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/wordwrap/example/meat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/wordwrap/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/wordwrap/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/wordwrap/test/break.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/wordwrap/test/idleness.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/wordwrap/test/wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/yargs/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/yargs/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/yargs/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/yargs/completion.sh.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/yargs/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/yargs/lib/completion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/yargs/lib/parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/yargs/lib/usage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/yargs/lib/validation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript-Applications/node_modules/yargs/package.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript-Applications/.idea/workspace.xml" afterPath="$PROJECT_DIR$/JavaScript-Applications/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/Messages/.idea/workspace.xml" afterPath="$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/Messages/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/Messages/index.html" afterPath="$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/Messages/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/Messages/scripts/controllers/page-controller.js" afterPath="$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/Messages/scripts/controllers/page-controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaScript-Applications/Exercises/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/JavaScript-Applications/Exercises/11-Exercise-Patterns-and-Routing/Team-Manager-Homework/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -899,9 +21,19 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="messages.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/01. Messages_Skeleton/messages.css">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animate.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/animate.css/animate.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -910,28 +42,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="messages.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/01. Messages_Skeleton/messages.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="messages.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/01. Messages_Skeleton/seed-json/messages.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/01. Messages_Skeleton/seed-json/user.json">
+      <file leaf-file-name="animate.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/animate.css/animate.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -942,8 +54,22 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -953,12 +79,15 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/JavaScript-Advanced/node_modules" />
+    <handled-path value="$PROJECT_DIR$/JavaScript-Applications/Exams/00-Final-Exam/SeentIt/node_modules" />
     <handled-path value="$PROJECT_DIR$/JavaScript-Applications/Exercises/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1008" />
-    <option name="height" value="1057" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -975,8 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -999,90 +126,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-Applications" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Core-SoftUni-May-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Core-SoftUni-May-2017" />
+              <option name="myItemId" value="node_modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-Applications" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exams" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01-Sample-Exam-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Core-SoftUni-May-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Core-SoftUni-May-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-Applications" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exams" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01-Sample-Exam-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01. Messages_Skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Core-SoftUni-May-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Core-SoftUni-May-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript-Applications" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exams" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01-Sample-Exam-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01. Messages_Skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seed-json" />
+              <option name="myItemId" value="animate.css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1093,7 +148,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="settings.editor.splitter.proportion" value="0.21841332" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1146,6 +201,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -1180,30 +241,31 @@
       <option name="presentableId" value="Default" />
       <updated>1502901698901</updated>
       <workItem from="1502901700345" duration="199000" />
+      <workItem from="1503323405924" duration="80000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199000" />
+    <option name="totallyTimeSpent" value="279000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1008" height="1057" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24123712" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24077977" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1218,7 +280,19 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/01. Messages_Skeleton/messages.css">
+    <entry file="file://$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/01. Messages_Skeleton/messages.css" />
+    <entry file="file://$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/01. Messages_Skeleton/messages.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/01. Messages_Skeleton/seed-json/messages.json" />
+    <entry file="file://$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/01. Messages_Skeleton/seed-json/user.json" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/animate.css/animate.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1226,23 +300,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/01. Messages_Skeleton/messages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/01. Messages_Skeleton/seed-json/messages.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript-Applications/Exams/01-Sample-Exam-1/01. Messages_Skeleton/seed-json/user.json">
+    <entry file="file://$PROJECT_DIR$/node_modules/animate.css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />

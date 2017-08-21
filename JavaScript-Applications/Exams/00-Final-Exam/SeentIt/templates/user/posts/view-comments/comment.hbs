@@ -1,0 +1,12 @@
+<article class="post post-content">
+    <p>{{content}}</p>
+    {{#if postIsAuthed}}
+        <div class="info">
+            submitted {{timePosted}} ago by {{author}} | <a  href="#/comments:{{postId}}" class="deleteLink" id="deleteComment" data-id="{{_id}}">delete</a>
+        </div>
+    {{else}}
+        <div class="info">
+            submitted {{timePosted}} ago by {{author}}
+        </div>
+    {{/if}}
+</article>

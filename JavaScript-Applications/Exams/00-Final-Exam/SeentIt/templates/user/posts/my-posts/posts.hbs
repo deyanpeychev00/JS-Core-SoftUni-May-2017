@@ -1,0 +1,18 @@
+<section id="viewMyPosts">
+    <div class="post post-content">
+        <h1>Your Posts</h1>
+    </div>
+    <div class="posts">
+        {{#each publications}}
+            {{>post}}
+        {{else}}
+            <article class="post">
+                <div class="post-content">
+                    <div class="title">
+                        No posts in database.
+                    </div>
+                </div>
+            </article>
+        {{/each}}
+    </div>
+</section>

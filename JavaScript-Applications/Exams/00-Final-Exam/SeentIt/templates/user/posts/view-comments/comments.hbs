@@ -1,0 +1,21 @@
+<section id="viewComments">
+    {{#each publications}}
+        {{> publication}}
+    {{/each}}
+
+    <div class="post post-content">
+        <form id="commentForm" action="#/submit-comment:{{_id}}" method="post">
+            <label>Comment</label>
+            <textarea name="content" type="text"></textarea>
+            <input type="submit" value="Add Comment" id="btnPostComment">
+        </form>
+    </div>
+
+    {{#each comments}}
+        {{>comment}}
+    {{else}}
+        <article class="post post-content">
+            <p>No comments yet.</p>
+        </article>
+    {{/each}}
+</section>

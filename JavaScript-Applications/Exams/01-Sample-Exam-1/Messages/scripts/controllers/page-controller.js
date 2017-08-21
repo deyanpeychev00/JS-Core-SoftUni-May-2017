@@ -29,6 +29,7 @@ let pageController = (() => {
     }
     function postLogin(req) {
         let {username, password} = req.params;
+        console.log(username, password);
         auth.login(username, password)
             .then(function (res) {
                 auth.showInfo('Logged in');
