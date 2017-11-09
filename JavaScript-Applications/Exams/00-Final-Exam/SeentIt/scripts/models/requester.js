@@ -1,7 +1,4 @@
 let requester = (() => {
-
-    // TODO: CHANGE KINVEY DETAILS
-
     const kinveyBaseUrl = "https://baas.kinvey.com/";
     const kinveyAppKey = "kid_r13rKbDdb";
     const kinveyAppSecret = "82c2ef57ca404782b9d3ea6548b466e1";
